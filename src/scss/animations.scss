@@ -1,0 +1,181 @@
+@keyframes description-animation {
+
+	0% {
+		top: 550px;
+		opacity: 0;
+	}
+
+	100% {
+		top: 420px;
+		opacity: 1;
+	}
+}
+
+@keyframes about-company__text-animate {
+	0% {
+		margin-left: 300px;
+		opacity: 0;
+	}
+
+	100% {
+		margin-left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes about-company__slogan-animate {
+	0% {
+		right: 300px;
+		opacity: 0;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes about-company__border-animate {
+	0% {
+		left: 400px;
+		opacity: 0;
+	}
+
+	100% {
+		left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes cards__architecture-animate {
+	0% {
+		right: 400px;
+		opacity: 0.2;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes cards__engineering-animate {
+	0% {
+		bottom: 500px;
+		opacity: 0.2;
+	}
+
+	100% {
+		bottom: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes cards__interior-desighn-animate {
+	0% {
+		left: 400px;
+		opacity: 0.2;
+	}
+
+	100% {
+		left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes box-header-animate {
+	0% {
+		margin-left: 500px;
+		opacity: 0;
+	}
+
+	100% {
+		margin-left: 0;
+		opacity: 1;
+	}
+}
+
+
+@keyframes advantages-border {
+	0% {
+		left: 750px;
+		opacity: 0;
+	}
+
+	100% {
+		left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes news__header-animate {
+	0% {
+		right: 300px;
+		opacity: 0;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes news__header-animate-h1 {
+	0% {
+		left: 300px;
+		opacity: 0;
+	}
+
+	100% {
+		left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes news-border-animate {
+	0% {
+		right: 750px;
+		opacity: 0;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes contact-form-box__head-h6 {
+	0% {
+		right: 300px;
+		opacity: 0;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes contact-form-box__head-h4 {
+	0% {
+		left: 500px;
+		opacity: 0;
+	}
+
+	100% {
+		left: 0;
+		opacity: 1;
+	}
+}
+
+@keyframes contact-form-border {
+	0% {
+		right: 750px;
+		opacity: 0;
+	}
+
+	100% {
+		right: 0;
+		opacity: 1;
+	}
+}
